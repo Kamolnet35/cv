@@ -1,0 +1,36 @@
+img {
+    height: 150px;
+}
+
+#id {
+    color: #FFCCCC;
+}
+
+.class {
+    color: #FF3366;
+}
+
+body {
+    background-color: #99CCFF;
+    color: #D2691E;
+}
+
+h1 {
+    color: #F5F5DC;
+}
+
+h3 {
+    color: #FFE4B5;
+}
+
+p {
+    color: #DB7093;
+}
+
+hr {
+    color: #000066;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 15px;
+    width: 30%;
+}
